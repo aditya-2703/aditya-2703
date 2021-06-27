@@ -21,12 +21,8 @@ the best personality compare to what I am some years before.
 ### Connect with me:
 
 
-[<img align="left" alt="Aditya | github" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' width='22px'>](https://github.com/https://github.com/aditya-2703)  
-[<img  align="left" alt="Aditya | linkedin" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' width='22px'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-2703/) 
-[<img  align="left" alt="Aditya | instagram" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' width='22px'>](https://www.instagram.com/https://www.instagram.com/adi_._2703//) 
-[<img  align="left" alt="Aditya | hackerrank" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' width='22px'>](https://www.hackerrank.com/adityachauhan271)  
-[<img  align="left" alt="Aditya | leetcode" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' width='22px'>](https://leetcode.com/aditya2703/)  
-[<img  align="left" alt="Aditya | geeksforgeeks" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' width='22px'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/https://github.com/aditya-2703)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-2703/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/https://www.instagram.com/adi_._2703//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='22'>](https://www.hackerrank.com/adityachauhan271)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='22'>](https://leetcode.com/aditya2703/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='22'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)  
+
 
 <br />
 
@@ -61,7 +57,6 @@ the best personality compare to what I am some years before.
 [bootstrap]: https://getbootstrap.com/
 
 ----
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/aditya-2703)  
+  
 
 
