@@ -41,3 +41,4 @@
 [python]: https://www.python.org/
 [java]: https://www.java.com/en/
 [react]: https://reactjs.org/
+[sql]: https://livesql.oracle.com/apex/f?p=590:1000
