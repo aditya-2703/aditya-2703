@@ -28,11 +28,6 @@
 
 ----
 
-<br />
-<br />
-
-----
-
 
 [instagram]: https://www.instagram.com/adi_._2703/
 [linkedin]: https://www.linkedin.com/in/aditya-2703
