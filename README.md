@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-![I am Computer Science Student]
+<!-- ![I am Computer Science Student] -->
 
 I'm Aditya Chauhan an Energetic fresher with having good
 knowledge of computer subjects apart from that having marketing
