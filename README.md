@@ -8,12 +8,12 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Aditya | github" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/https://github.com/aditya-2703)  
-[<img align="left" alt="Aditya | linkedin" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-2703/) 
-[<img align="left" alt="Aditya | instagram" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/https://www.instagram.com/adi_._2703//) 
-[<img align="left" alt="Aditya | hackerrank" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='22'>](https://www.hackerrank.com/adityachauhan271)  
-[<img align="left" alt="Aditya | leetcode" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='22'>](https://leetcode.com/aditya2703/)  
-[<img align="left" alt="Aditya | geeksforgeeks" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='22'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)
+[<img align="left" alt="Aditya | github" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width='22'>](https://github.com/https://github.com/aditya-2703)  
+[<img align="left" alt="Aditya | linkedin" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width='22'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-2703/) 
+[<img align="left" alt="Aditya | instagram" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' width='22'>](https://www.instagram.com/https://www.instagram.com/adi_._2703//) 
+[<img align="left" alt="Aditya | hackerrank" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' width='22'>](https://www.hackerrank.com/adityachauhan271)  
+[<img align="left" alt="Aditya | leetcode" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' width='22'>](https://leetcode.com/aditya2703/)  
+[<img align="left" alt="Aditya | geeksforgeeks" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' width='22'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)
 
 <br />
 
