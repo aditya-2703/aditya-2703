@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aditya
+### Hi there 👋, I am Aditya
 
 #### I am Computer Science Student
 
