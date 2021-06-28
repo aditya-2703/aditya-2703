@@ -1,7 +1,5 @@
 ### Hi there 👋, I am Aditya
 
-#### I am Computer Science Student
-
 <img src="ADITYA.gif">
 
 - 🌱 I’m currently learning everything 🤣
