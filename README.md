@@ -36,7 +36,7 @@ the best personality compare to what I am some years before.
 [<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/figma.svg' alt='figma'/>][figma]  
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />][python]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
+[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />][java]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />][bootstrap]
 [<img align="left" width="26px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/django.svg' alt='django' />][django]  
