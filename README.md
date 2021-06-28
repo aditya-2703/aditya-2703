@@ -2,6 +2,8 @@
 
 #### I am Computer Science Student
 
+<img src="ADITYA.gif">
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
