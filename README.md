@@ -11,8 +11,7 @@
 ----
 
 I'm Aditya Chauhan an Energetic fresher with having good
-knowledge of computer subjects apart from that having marketing
-skill, communication skill, public speaking skill. the goal is to convert
+knowledge of computer subjects. the goal is to convert
 my ideas into the computer with my skills. also eager to know more
 about personality development with a strong willingness to become
 the best personality compare to what I am some years before.
