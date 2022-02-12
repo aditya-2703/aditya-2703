@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🙋‍♂️ I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 <!-- ![I am Computer Science Student] -->
