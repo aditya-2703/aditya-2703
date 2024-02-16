@@ -10,11 +10,7 @@
 <!-- ![I am Computer Science Student] -->
 ----
 
-I'm Aditya Chauhan an Energetic fresher with having good
-knowledge of computer subjects. the goal is to convert
-my ideas into the computer with my skills. also eager to know more
-about personality development with a strong willingness to become
-the best version of my self.
+I'M Aditya Chauhan, a dynamic and motivated fresher equipped with a robust understanding of computer science. My objective is to translate innovative ideas into tangible computer solutions leveraging my skills and expertise. Furthermore, I am deeply committed to personal development, with a strong aspiration to continually evolve and strive towards becoming the optimal version of myself.
 
 
 ### Connect with me:
