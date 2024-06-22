@@ -16,8 +16,14 @@ I'M Aditya Chauhan, a dynamic and motivated fresher equipped with a robust under
 ### Connect with me:
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/aditya-2703)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/aditya-2703/)      &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/adi_._2703/)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='22'>](https://www.hackerrank.com/adityachauhan271)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='22'>](https://leetcode.com/aditya2703/) &nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='22'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='22'>](https://github.com/aditya-2703)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='22'>](https://www.linkedin.com/in/aditya-2703/)      &nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='22'>](https://www.instagram.com/adi_._2703/)  
 
+
+<br />
+
+### Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='22'>](https://www.hackerrank.com/adityachauhan271)  &nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='22'>](https://leetcode.com/aditya2703/) &nbsp;   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='22'>](https://auth.geeksforgeeks.org/user/adityachauhan6/practice/)  &nbsp;   [<img src='https://scontent.fbdq2-1.fna.fbcdn.net/v/t39.30808-6/273802261_690706225705726_8585155307749683097_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=GtlN58OoQnAQ7kNvgH4btJ1&_nc_ht=scontent.fbdq2-1.fna&oh=00_AYB7a2DncOzrmtDb2cOS6TZ7rvEfxZLmx3t8l-C6eOEgYA&oe=667C8F1B' alt='scaler' height='22'>](https://www.scaler.com/academy/profile/4b97a6a4f232/)  
 
 <br />
 
